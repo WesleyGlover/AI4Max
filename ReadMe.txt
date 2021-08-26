@@ -39,6 +39,6 @@ To Run:
 Feed Back from presentation:
         Chandler and Wesley, great insight. For a two-member team as a first look into ML, you guys did great.
         - ZeroR is a cool way to compare your algorithm early on.
-        - Some ways to also look going forward is to try a subset of features to see if there are better ways to classify the data. Like merge the data or considering other                    demographics.
+        - Some ways to also look going forward is to try a subset of features to see if there are better ways to classify the data. Like merge the data or considering other demographics.
         - This is a very vital open problem and kudos to you two for an inspirational direction.
 
