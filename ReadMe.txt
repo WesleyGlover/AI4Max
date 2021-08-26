@@ -4,7 +4,7 @@ Project: AI4Max - A use of machine learning to narrow down and determine leading
 
 
 
-There are three python3 files within this workspace.
+There are four python3 files within this workspace.
 
 AI4Max_Split.py 
         This file contained the linear regression models of each individual factors plotted against suicide rates.
@@ -19,7 +19,9 @@ AI4Max_Together.py
 DataOrganizer.py 
         This file takes the multi-book excel sheet of data and chooses specific columns to be used.
         Then saves only the data that is needed within the project as a one book excel file called df.xlsx
-
+      
+Test.py
+        This file is not needed for the project. It was used as a temporary place to explore with the code.
 
 
 To Run:
@@ -34,8 +36,9 @@ To Run:
         - Note: Each AI4Max program produces the intercepts and coefficients to the console after completion. 
 
 
+Feed Back from presentation:
         Chandler and Wesley, great insight. For a two-member team as a first look into ML, you guys did great.
-- ZeroR is a cool way to compare your algorithm early on.
-- Some ways to also look going forward is to try a subset of features to see if there are better ways to classify the data. Like merge the data or considering other demographics.
-- This is a very vital open problem and kudos to you two for an inspirational direction.
+        - ZeroR is a cool way to compare your algorithm early on.
+        - Some ways to also look going forward is to try a subset of features to see if there are better ways to classify the data. Like merge the data or considering other                    demographics.
+        - This is a very vital open problem and kudos to you two for an inspirational direction.
 
